@@ -1,0 +1,19 @@
+bcc32 -etest -I.. -I^
+                  test.cpp^
+                  ..\bytestream.cpp^
+                  ..\ifbytestream.cpp^
+                  ..\move.cpp^
+                  ..\parsemove.cpp^
+                  ..\parsegame.cpp^
+                  ..\parseround.cpp^
+                  ..\parsetagpair.cpp^
+                  ..\testbytestream.cpp^
+                  expmove.cpp^
+                  expround.cpp^
+                  exptagpair.cpp^
+                  ifbytestream.t.cpp^
+                  parsegame.t.cpp^
+                  parsemove.t.cpp^
+                  parseround.t.cpp^
+                  parsetagpair.t.cpp^
+                  testbytestream.t.cpp

@@ -1,0 +1,2 @@
+#ifndef BYTESTREAM_T_H
+#define BYTESTREAM_T_H
